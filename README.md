@@ -1,5 +1,4 @@
-# Python Project for Data Engineering
-# ETL pipeline
+# Python Project for Data Engineering - ETL pipeline
 
 ## Introduction
 In this practice project, you will use the skills acquired through the course and *create a complete ETL pipeline* for accessing data from a website and processing it to meet the requirements.
