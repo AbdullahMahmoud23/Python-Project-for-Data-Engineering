@@ -26,3 +26,21 @@ You have to complete the following tasks for this project
 4. Run the required query on the database.
 
 5. Log the progress of the code with appropriate timestamps.
+
+## Initial setup
+Before you start building the code, you need to install the required libraries for it.
+
+The libraries needed for the code are as follows:
+
+1. **requests** - The library used for accessing the information from the URL.
+
+2. **bs4** - The library containing the BeautifulSoup function used for webscraping.
+
+3. **pandas** - The library used for processing the extracted data, storing it to required formats and communicating with the databases.
+
+4. **sqlite3** - The library required to create a database server connection.
+
+5. **numpy** - The library required for the mathematical rounding operation as required in the objectives.
+
+6. **datetime** - The library containing the function datetime used for extracting the timestamp for logging purposes.
+
