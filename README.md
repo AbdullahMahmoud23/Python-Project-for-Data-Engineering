@@ -1,6 +1,6 @@
 # Python-Project-for-Data-Engineering
 
-
+## Introduction
 In this practice project, you will use the skills acquired through the course and *create a complete ETL pipeline* for accessing data from a website and processing it to meet the requirements.
 
 ## Project Scenario
@@ -13,3 +13,16 @@ The required information needs to be made accessible as a JSON file 'Countries_b
 Your boss wants you to demonstrate the success of this code by running a query on the database table to display only the entries with more than a 100 billion USD economy. Also, log the entire process of execution in a file named 'etl_project_log.txt'.
 
 You must create a Python code 'etl_project_gdp.py' that performs all the required tasks.
+
+## Objectives
+You have to complete the following tasks for this project
+
+1. Write a data extraction function to retrieve the relevant information from the required URL.
+
+2. Transform the available GDP information into 'Billion USD' from 'Million USD'.
+
+3. Load the transformed information into the required CSV file and as a database file.
+
+4. Run the required query on the database.
+
+5. Log the progress of the code with appropriate timestamps.
