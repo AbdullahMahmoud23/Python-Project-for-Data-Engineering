@@ -44,3 +44,17 @@ The libraries needed for the code are as follows:
 
 6. **datetime** - The library containing the function datetime used for extracting the timestamp for logging purposes.
 
+
+## Conclusion
+
+In this project, you performed complex Extract, Transform, and Loading operations on real world data. By now, you should be able to:
+
+1. Extract relevant information from websites using Webscraping and requests API.
+
+2. Transform the data to a required format.
+
+3. Load the processed data to a local file or as a database table.
+
+4. Query the database table using Python.
+
+5. Create detailed logs of all operations conducted.
